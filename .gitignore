@@ -1,0 +1,7 @@
+faces/
+embeddings/
+attendance.csv
+trainer.yml
+names.txt
+*.onnx
+__pycache__/
